@@ -1,3 +1,5 @@
 # treinamento-git
 
 TESTANDO O SEGUNDO COMMIT
+
+TERCEIRA ALTERAÇÃO AQUI ----
